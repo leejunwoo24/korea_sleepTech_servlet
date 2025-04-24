@@ -9,7 +9,7 @@
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
-<%-- a 링크 클릭 시 : hello-sevlet의 경로로 이동의 요청!--%>
+<%-- a 링크 클릭 시 : hello-servlet의 경로로 이동을 요청! --%>
 <a href="hello-servlet">Hello Servlet</a>
 </body>
 </html>

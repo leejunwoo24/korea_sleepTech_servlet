@@ -14,7 +14,7 @@ public class User {
     }
 
     public int getId(){return id;}
-    public String getname(){return name;}
+    public String getName(){return name;}
     public String getEmail(){return email;}
     public String getCountry(){return country;}
 
